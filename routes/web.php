@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/test', function () {
-    return ('Hello World,Laravel10');
+    return 'Hello World,Laravel10';
 });
